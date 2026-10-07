@@ -1,0 +1,13 @@
+### Dati personali
+Nome: Giulia Ferrante
+Email: giulia.ferrante@example.com
+Telefono: +39 000 000 0001
+
+### Profilo
+Digital marketing specialist con 7 anni di esperienza nel lancio e nella promozione di prodotti online. Si occupa di strategia, campagne a pagamento e crescita dei canali social.
+
+### Esperienza
+Responsabile marketing presso una startup di prodotti per la casa: ha gestito il lancio di tre prodotti, curato le campagne Google Ads e Meta Ads e aumentato le vendite online del 60 per cento in un anno. Ha coordinato un piccolo team di creator e copywriter e gestito la newsletter aziendale.
+
+### Competenze e certificazioni
+SEO, SEM, social media marketing, email marketing, analisi dati con Google Analytics, copywriting. Certificazione Google Ads. Inglese fluente.

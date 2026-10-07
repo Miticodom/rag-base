@@ -1,0 +1,13 @@
+### Dati personali
+Nome: Marco Bellini
+Email: marco.bellini@example.com
+Telefono: +39 000 000 0002
+
+### Profilo
+Consulente di cybersecurity specializzato nella messa in sicurezza di siti web e applicazioni. Esegue penetration test e audit di sicurezza per piccole e medie aziende.
+
+### Esperienza
+Security analyst presso una società di consulenza informatica: ha condotto oltre 40 penetration test su siti e-commerce, individuato vulnerabilità come SQL injection e XSS e guidato i clienti nella loro correzione. Ha scritto procedure di risposta agli incidenti e tenuto corsi di sensibilizzazione al personale.
+
+### Competenze e certificazioni
+Penetration testing, hardening di server Linux, analisi delle vulnerabilità, Burp Suite, Nmap, Wireshark. Certificazioni CEH (Certified Ethical Hacker) e CompTIA Security+.

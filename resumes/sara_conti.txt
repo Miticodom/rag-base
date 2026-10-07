@@ -1,0 +1,13 @@
+### Dati personali
+Nome: Sara Conti
+Email: sara.conti@example.com
+Telefono: +39 000 000 0003
+
+### Profilo
+Sviluppatrice web full stack con 5 anni di esperienza nella creazione di siti e applicazioni su misura. Ama lavorare su progetti dove può seguire tutto, dal database all'interfaccia.
+
+### Esperienza
+Sviluppatrice presso un'agenzia digitale: ha realizzato portali di annunci, siti vetrina e gestionali con Laravel e JavaScript. Ha curato il database MySQL, le API e l'interfaccia utente, lavorando con metodologia Agile e Scrum.
+
+### Competenze e certificazioni
+HTML, CSS, JavaScript, PHP, Laravel, MySQL, Git. Esperienza con test automatici e deploy su server. Certificazione Scrum Master.
